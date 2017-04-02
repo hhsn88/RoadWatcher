@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "362182568060",
+    "firebase_url": "https://acclist-21b74.firebaseio.com",
+    "project_id": "acclist-21b74",
+    "storage_bucket": "acclist-21b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362182568060:android:88f6ef54452a63d9",
+        "android_client_info": {
+          "package_name": "com.jlabs.accedent_listner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362182568060-sth12k71jk8dmlqon9kboq7r5c8rade5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQYXAYYzU_4Qx4bSH5WAuUzJTgj_WbMmM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
